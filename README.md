@@ -66,4 +66,3 @@ Unlike complex enterprise-level tools that may require extensive configurations 
 
 In conclusion, the File Integrity Checker Tool is a powerful, beginner-friendly, and efficient solution for maintaining the trustworthiness of your file systems. Built entirely in Python and utilizing standard libraries, it serves as both a practical utility and an excellent learning project for those interested in cybersecurity, automation, or system scripting.
 
-Let me know if you want a PDF version or want this included in a formatted `README.md` file!
